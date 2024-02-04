@@ -1,1 +1,4 @@
 # earth
+```bash
+npx vite
+```
